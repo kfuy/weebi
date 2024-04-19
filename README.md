@@ -20,9 +20,10 @@
 <p>
   You can reach me via the following methods: <br>
 
+  **Discord:** @hm.hm<br>
   **Matrix:** @hm:huut.is<br>
   **XMPP:** hm<span>@</span>xmpp.fi<br>
-  **E-Mail:** hm<span>@</span>imap.fi<br>
+  **E-Mail:** hm<span>@</span>imap.fi **OR** weebi<span>@</span>duck.com<br>
   
   *With a little OSINT trickery, you might find me on other platforms as well.*
 </p>
